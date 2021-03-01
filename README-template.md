@@ -6,11 +6,15 @@
 
 
 ## :scroll: Description
+This is a pet adoption app! 
+
+This app contains two screen one for pet list and amother for detailed description of the pet.
 <!--- Describe your app in one or two sentences -->
 
 
 ## :bulb: Motivation and Context
 This application shows the power of jetpack compose library . All layouts in this app built using jetpack compose.
+
 It uses Navigation component provides support for Jetpack Compose makes applications more dynamic.
 <!--- Optionally point readers to interesting parts of your submission. -->
 <!--- What are you especially proud of? -->
