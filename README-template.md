@@ -1,15 +1,21 @@
-# Put title of your app here
+# MyPet
 
 <!--- Replace <OWNER> with your Github Username and <REPOSITORY> with the name of your repository. -->
 <!--- You can find both of these in the url bar when you open your repository in github. -->
-![Workflow result](https://github.com/<OWNER>/<REPOSITORY>/workflows/Check/badge.svg)
+![Workflow result](https://github.com/<hiron1999>/<-android-dev-challenge-compose-week1>/workflows/Check/badge.svg)
 
 
 ## :scroll: Description
+This is a pet adoption app! 
+
+This app contains two screen one for pet list and amother for detailed description of the pet.
 <!--- Describe your app in one or two sentences -->
 
 
 ## :bulb: Motivation and Context
+This application shows the power of jetpack compose library . All layouts in this app built using jetpack compose.
+
+It uses Navigation component provides support for Jetpack Compose makes applications more dynamic.
 <!--- Optionally point readers to interesting parts of your submission. -->
 <!--- What are you especially proud of? -->
 
